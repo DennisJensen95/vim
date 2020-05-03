@@ -1,0 +1,2 @@
+Learning vim from this website: https://danielmiessler.com/study/vim/#why
+Reached the Text Objects in the guide.
